@@ -1,0 +1,6 @@
+{
+  "name": "SIF Precursor Engine",
+  "description": "Professional analytical workstation for evaluating precursor indicators and reviewing structured analytical results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
